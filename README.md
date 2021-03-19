@@ -1,2 +1,2 @@
 # proyect
-prueba
+Proyecto para la asignatura PGY
